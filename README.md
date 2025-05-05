@@ -18,3 +18,7 @@
 3. Remote repositories with GitHub
 4. A demo on sciebo as cloud storage platform for researchers in NRW universities
 
+Making some changes to finish exercise 26
+
+
+Changing changing changing
